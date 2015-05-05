@@ -1,6 +1,6 @@
 Marcação Básica 
 
-A marcação permite que você escreva usando um plano de formato de texto fácil de ler e fácil de escrever, na qual converte para um HTML valido para ser visualizado no GitHub.
+# A marcação permite que você escreva usando um plano de formato de texto fácil de ler e fácil de escrever, na qual converte para um HTML valido para ser visualizado no GitHub.
 
 
 
