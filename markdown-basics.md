@@ -15,7 +15,7 @@ On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, partici
 
 ###Cabeçalhos 
 
-Você pode criar um cabeçalho adicionando um ou mais ```#``` símbolos antes do cabeçalho do texto. O numero de ```#``` que você usa, determinará o tamanho do cabeçalho.
+Você pode criar um cabeçalho adicionando um ou mais ```#``` símbolos antes do cabeçalho do texto. O número de ```#``` que você usa, determinará o tamanho do cabeçalho.
 ```
 # The largest heading (an <h1> tag)
 ## The second largest heading (an <h2> tag)
