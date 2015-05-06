@@ -102,11 +102,11 @@ x = 2 + 2
 what is x
 ```
 
-#Links
+##Links
 
-Você pode criar um link nas entrelinhas envolvendo os links nas chaves no texto, e então envolva o link nos parênteses.
+Você pode criar um link nas entrelinhas envolvendo os links nas chaves no texto, e então envolva o link nos parênteses. (``` ( ) ```)
 
-Por exemplo, para criar um hiperlink no www.github.com , com um link textual que diz, visite GitHub!, você escreveria esta marcação: ``` [Visit GitHub!](www.github.com). ```
+Por exemplo, para criar um hiperlink no www.github.com, com um link textual que diz, visite GitHub!, você escreveria esta marcação: ``` [Visit GitHub!](www.github.com). ```
 
 
 
