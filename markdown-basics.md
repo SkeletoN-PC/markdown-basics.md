@@ -6,7 +6,7 @@ A marcação permite que você escreva usando um plano de formato de texto fáci
 
 ###Parágrafos 
 
-Os parágrafos na marcação são apenas um ou mais consecutivas linhas de texto seguido de um ou mais espaços em branco.
+Os parágrafos na marcação são apenas uma ou mais linhas consecutivas de um texto seguido de um ou mais espaços em branco.
 ```
 On July 2, an alien mothership entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.
 
@@ -15,7 +15,7 @@ On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, partici
 
 ###Cabeçalhos 
 
-Você pode criar um cabeçalho adicionando um ou mais # símbolos antes do cabeçalho do texto. O numero de símbolos que você usa determinara o tamanho do cabeçalho.
+Você pode criar um cabeçalho adicionando um ou mais ```#``` símbolos antes do cabeçalho do texto. O numero de ```#``` que você usa, determinará o tamanho do cabeçalho.
 ```
 # The largest heading (an <h1> tag)
 ## The second largest heading (an <h2> tag)
